@@ -1,5 +1,5 @@
 package com.example.demo;
 
 public class TestController {
-int i=50;
+int i=670;
 }
